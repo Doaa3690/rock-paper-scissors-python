@@ -49,3 +49,10 @@ backg.png
 background.mp3
 
 click.mp3
+
+## 📷 Game Preview
+
+The image below shows the final design of the game interface.  
+*This screenshot is for preview purposes only and is not part of the code files.*
+
+![Game Screenshot](FinallGameDisplay.png)
